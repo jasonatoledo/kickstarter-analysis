@@ -9,7 +9,7 @@ After doing a bit of data cleanup, I was able to create meaningful chart visuali
 ### Analysis of Outcomes Based on Launch Date
 There are two noticable conclusions that Louise can draw from the Outcomes Based on Launch Date analysis. The first conclusion we can draw is that the most successful campaigns are started in the month of May, with the best season being late Spring through Summer. The second conclusion about the data is the least successful campaigns begin in the month of December, with the preceding and following months being next worst overall. Another  data point is there have been no cancelled campaigns in the month of October, but there isn't enough data to understand the reasoning behind this.
 ### Analysis of Outcomes Based on Goals
-
+The conclusion I can draw about the Outcomes Based on Goals is that the most successful campaigns quantity-wise have a goal with the range of $1000 to $4999. The highest percentage of successful campaigns are in the "less than 1000" range. 61.6% of campaigns failed once the goal was $15000 or higher.
 ### Challenges and Difficulties Encountered
 
 ## Results
