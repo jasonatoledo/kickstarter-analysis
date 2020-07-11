@@ -11,7 +11,7 @@ There are two noticable conclusions that Louise can draw from the Outcomes Based
 ### Analysis of Outcomes Based on Goals
 The conclusion I can draw about the Outcomes Based on Goals is that the most successful campaigns quantity-wise have a goal with the range of $1000 to $4999. The highest percentage of successful campaigns are in the "less than 1000" range. 61.6% of campaigns failed once the goal was $15000 or higher.
 ### Challenges and Difficulties Encountered
-One of the challenges I had was building the countifs calculations, where I didn't put >= or <= so it excluded some values, such as "1000" and threw off the sum count when I checked against the raw data. Also, I'm not really a fan of Excel's visualization options when compared to a specialty platform like Tableau or Looker, I find that although they've made improvements in their options, the experience is still rather clunky and not a great user experience.
+One of the challenges I had was building the countifs calculations, where I didn't put >= or <= so it excluded some values, such as "1000" and threw off the total count when I checked the sum total against the raw data. Also, I'm not really a fan of Excel's visualization options when compared to a specialty platform like Tableau or Looker, I find that although they've made improvements in their options, the experience is still rather clunky and not a great user experience. Another issue I encounted was a bit of slowness when using the filters as I kept live formulas in the sheet, whereas I am accustomed to using "paste special/values" in the real world (but I understand for evaluation purposes to leave the formulas intact).
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
