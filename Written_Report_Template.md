@@ -19,6 +19,8 @@ One of the challenges I had was building the countifs calculations, where I didn
 - What can you conclude about the Outcomes based on Goals?
   see above^
 - What are some limitations of this dataset?
+  
   Some of the limitations that I've seen in this dataset would be a small sample size of theater campaigns at a little over 1,000. More specifically, the range that Louise is interested in for her campaign only contains 534 projects to draw conclusions from. The data only contains 9 years of campaigns, this could be expanded upon to provoide more information. Since Louise is looking at just the theater data, there is a lot of irrelevant data in the file; it could be better to have a higher quality data source.
 - What are some other possible tables and/or graphs that we could create?
+  
   We could create a histogram chart based on the bucketed goal ranges. We could also create a table to show the number of backers against the successful and failed campaigns to see the distribution of donations. Another chart we could create would be a scatter plot to create a quick-view visualization of the successful campaigns against the goal, where a person could understand the ranges within a few seconds.
