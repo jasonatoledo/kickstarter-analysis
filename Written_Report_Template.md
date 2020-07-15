@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarting with Excel - Louise's Plan to Kickstart
 
 ## Overview of Project
 Louise is interested in starting a Kickstarter campaign to raise funds via crowdsourcing for her theater production. She wants to better understand how other similar campaigns have fared in the past by using a thorough data analysis.
