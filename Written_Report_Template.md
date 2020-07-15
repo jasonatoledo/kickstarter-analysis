@@ -21,3 +21,4 @@ One of the challenges I had was building the countifs calculations, where I didn
 - What are some limitations of this dataset?
   Some of the limitations that I've seen in this dataset would be a small sample size of theater campaigns at a little over 1,000. More specifically, the range that Louise is interested in for her campaign only contains 534 projects to draw conclusions from.
 - What are some other possible tables and/or graphs that we could create?
+  We could create a histogram chart based on the bucketed goal ranges. We could also create a table to show the number of backers against the successful and failed campaigns to see the distribution of donations. Another chart we could create would be a scatter plot to create a quick-view visualization of the successful campaigns against the goal, where a person could understand the ranges within a few seconds.
