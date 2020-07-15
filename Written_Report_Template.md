@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise is interested in starting a Kickstarter campaign for her theater production. She wants to better understand how other similar campaigns have fared in the past by using a thorough data analysis.
+Louise is interested in starting a Kickstarter campaign to raise funds via crowdsourcing for her theater production. She wants to better understand how other similar campaigns have fared in the past by using a thorough data analysis.
 ### Purpose
 The purpose of the analysis through excel is to provide Louise with factual data about past campaigns and their success rates. In addition, this analysis will help discover any trends and patterns in the data to help Louise plan and prepare for her campaign in the hopes to have a successful campaign herself.
 ## Analysis and Challenges
